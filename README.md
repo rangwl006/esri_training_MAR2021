@@ -4,5 +4,3 @@
 
 * for training conducted at ESRI Singapore during MAR2021
 * Scripting Arcgis Pro processes using python
-
-**this is bold**
